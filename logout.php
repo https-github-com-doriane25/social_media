@@ -6,4 +6,5 @@
         echo 'logout completed';
         header("Location: login.php");
     }
+    //hello
 ?>
